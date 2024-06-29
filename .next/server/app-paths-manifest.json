@@ -1,0 +1,11 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/api/stats/balance/route": "app/api/stats/balance/route.js",
+  "/api/history-data/route": "app/api/history-data/route.js",
+  "/api/history-periods/route": "app/api/history-periods/route.js",
+  "/api/stats/categories/route": "app/api/stats/categories/route.js",
+  "/api/categories/route": "app/api/categories/route.js",
+  "/api/user-settings/route": "app/api/user-settings/route.js",
+  "/(dashboard)/page": "app/(dashboard)/page.js",
+  "/(dashboard)/manage/page": "app/(dashboard)/manage/page.js"
+}

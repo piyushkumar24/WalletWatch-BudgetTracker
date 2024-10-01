@@ -24,6 +24,3 @@ Welcome to **Wallet Watch**, your ultimate Budget Tracker and Finance Management
 - **Data Visualization with Graphs**: Visualize income and expenses dynamically using Recharts.
 - **CRUD Operations**: Full control over creating, reading, updating, and deleting transactions.
 - **Fast & Secure Hosting**: Deployed on Vercel for fast, reliable, and secure hosting.
-
-## Deployment
-The app is deployed on Vercel for smooth hosting and optimal performance.

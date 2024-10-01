@@ -1,36 +1,29 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Wallet Watch
 
-## Getting Started
+## Introduction
+Welcome to **Wallet Watch**, your ultimate Budget Tracker and Finance Management App. Effortlessly manage your finances with features to add, edit, and track transactions. With robust security, seamless authentication, and real-time data visualization, users can stay in control of their finances. Wallet Watch ensures data safety using Prisma ORM with integration to SQLite and Vercel PostgreSQL. Analyze your income and expenses with dynamic charts and enjoy a personalized experience with category icons. Deploy your app on Vercel for fast and secure hosting.
 
-First, run the development server:
+## Tech Stack
+- **Next.js 14**
+- **TypeScript**
+- **Tailwind CSS**
+- **Shadcn UI**
+- **Prisma**
+- **React-Query**
+- **Recharts**
+- **Clerk for Authentication**
+- **Vercel for Deployment**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Key Features
+- **Transaction Management**: Easily add, edit, and manage your financial transactions with a sleek user interface.
+- **Category Statistics**: Analyze spending patterns with detailed category-based statistics.
+- **Historical Data Aggregation**: Track and aggregate historical financial data for better insights.
+- **Icon Selector for Categories**: Personalize your categories with a wide range of icons for better organization.
+- **Robust Authentication**: Implement secure login and authorization using Clerk.
+- **Phone Responsiveness**: Fully responsive design for optimal use on mobile devices.
+- **Data Visualization with Graphs**: Visualize income and expenses dynamically using Recharts.
+- **CRUD Operations**: Full control over creating, reading, updating, and deleting transactions.
+- **Fast & Secure Hosting**: Deployed on Vercel for fast, reliable, and secure hosting.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Deployment
+The app is deployed on Vercel for smooth hosting and optimal performance.
